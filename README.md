@@ -1,6 +1,8 @@
 # Ainthiram GUI ORC TOOL
 Multi Linguistic OCR converter from Bulk pdf to Text. integrated with Google API. Automating google vision with python.
 
+![enter image description here](https://peaceofmind.com/wp-content/uploads/2020/03/Screen-Shot-2020-03-12-at-12.17.49-PM.png)
+
 # API Setup
 Create a new project for this tool to access your Google drive
 Visit https://console.developers.google.com/ , create project, name it anything you like, ex: gdcmdtools.
