@@ -1,5 +1,5 @@
-# Ainthiram
-Multi Linguistic OCR converter from Bulk pdf to Text. integrated with Google API
+# Ainthiram GUI ORC TOOL
+Multi Linguistic OCR converter from Bulk pdf to Text. integrated with Google API. Automating google vision with python.
 
 # API Setup
 Create a new project for this tool to access your Google drive
@@ -20,3 +20,67 @@ Check the section "Client ID for native application", click at the "Download JSO
 3. Ghost Script (https://www.ghostscript.com/download.html)
 4. PIP 3 (For package install : First Run "curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py" in cmd and Second : "py get-pip.py"
 5. Requirements (Attached with Repo) (Just run pip install -r requirements.txt)
+
+
+# Language Support ( From google Vision)
+
+Afrikaans	Afrikaans
+shqip	Albanian	
+العربية	Arabic	
+Հայ	Armenian	
+беларускі	Belorussian	
+বাংলা	Bengali	
+български	Bulgarian	
+Català	Catalan	
+普通话	Chinese	
+Hrvatski	Croatian	
+Čeština	Czech	
+Dansk	Danish	
+Nederlands	Dutch	
+English	English	
+Eesti keel	Estonian	
+Filipino	Filipino	fi
+Suomi	Finnish	f
+Français	French	
+Deutsch	German	
+Ελληνικά	Greek	
+ગુજરાતી	Gujarati	
+עברית	Hebrew	
+हिन्दी	Hindi	
+Magyar	Hungarian	
+Íslenska	Icelandic	
+Bahasa Indonesia	Indonesian	
+Italiano	Italian	
+日本語	Japanese	
+ಕನ್ನಡ	Kannada	
+ភាសាខ្មែរ	Khmer	
+한국어	Korean	
+ລາວ	Lao	
+Latviešu	Latvian	
+Lietuvių	Lithuanian	
+Македонски	Macedonian	
+Bahasa Melayu	Malay	
+മലയാളം	Malayalam	
+मराठी	Marathi	
+नेपाली	Nepali	
+Norsk	Norwegian	no	
+فارسی	Persian	
+Polski	Polish	
+Português	Portuguese	
+ਪੰਜਾਬੀ	Punjabi	
+Română	Romanian	
+Русский	Russian	
+Русский (старая орфография)	Russian	
+Српски	Serbian
+Српски (латиница)	Serbian	
+Slovenčina	Slovak	
+Slovenščina	Slovenian
+Español	Spanish	
+Svenska	Swedish
+தமிழ்	Tamil	
+తెలుగు	Telugu	
+ไทย	Thai	
+Türkçe	Turkish	
+Українська	Ukrainian
+Tiếng Việt	Vietnamese	
+Yiddish	Yiddish	
